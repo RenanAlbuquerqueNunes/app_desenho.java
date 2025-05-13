@@ -23,5 +23,5 @@ Este projeto em Java permite desenhar formas geométricas ou usar um pincel para
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio-java.git
+   git clone https://github.com/RenanAlbuquerqueNunes/nome-do-repositorio-java.git
    cd nome-do-repositorio-java
